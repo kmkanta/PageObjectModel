@@ -1,0 +1,639 @@
+2018-02-28 07:05:07 INFO  TestBase:77 - navigating to :-chrome browser
+2018-02-28 07:05:07 INFO  TestBase:105 - navigating to :-https://www.facebook.com/
+2018-02-28 07:06:14 INFO  ElementHelper:18 - Element : Facebook – log in or sign up
+2018-02-28 07:06:14 INFO  ElementHelper:65 - The width of Element is : 202
+2018-02-28 07:06:14 INFO  ElementHelper:75 - X Cordinates of selected Element is : 764
+2018-02-28 07:06:14 INFO  ElementHelper:76 - Y Cordinates of selected Element is : 547
+2018-02-28 07:06:14 INFO  ElementHelper:85 - The Text of the Element is : Create an account
+2018-02-28 07:06:14 INFO  ElementHelper:94 - All Links in Current Web Page : 58
+2018-02-28 07:06:14 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:14 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Facebook
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Forgotten account?
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Why do I need to provide my date of birth?
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Terms
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Data Policy
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Cookie Use Policy
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Create a Page
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ??????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ?????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ?????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ?????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ??????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ???????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ?????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : ??????
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Español
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : 
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Sign Up
+2018-02-28 07:06:15 INFO  ElementHelper:96 - All Links Text : Log In
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Messenger
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Facebook Lite
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Mobile
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Find Friends
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : People
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Pages
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Places
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Games
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Locations
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Celebrities
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Marketplace
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Groups
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Recipes
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Sports
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Look
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Moments
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Instagram
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Local
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : About
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Create ad
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Create Page
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Developers
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Careers
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Privacy
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : Cookies
+2018-02-28 07:06:16 INFO  ElementHelper:96 - All Links Text : AdChoices
+2018-02-28 07:06:17 INFO  ElementHelper:96 - All Links Text : Terms
+2018-02-28 07:06:17 INFO  ElementHelper:96 - All Links Text : Help
+2018-02-28 07:06:17 INFO  ElementHelper:96 - All Links Text : Settings
+2018-02-28 07:06:17 INFO  ElementHelper:96 - All Links Text : Activity log
+2018-02-28 07:06:17 INFO  ElementHelper:46 - Not able to enter text into element : [[ChromeDriver: chrome on XP (31eb55094c398f5d109d7936975a221e)] -> name: websubmit]
+2018-02-28 07:06:17 INFO  ElementHelper:24 - To Perform Click Operation on : [[ChromeDriver: chrome on XP (31eb55094c398f5d109d7936975a221e)] -> name: websubmit]
+2018-02-28 07:06:19 INFO  TestBase:220 - browser closed
+2018-03-03 06:43:26 INFO  TestBase:77 - navigating to :-chrome browser
+2018-03-03 06:43:26 INFO  TestBase:105 - navigating to :-https://www.facebook.com/
+2018-03-03 06:44:28 INFO  Utils:21 - Utils : 1625252058
+2018-03-03 06:44:29 INFO  Utils:27 - Total No.Of Links are : 58
+2018-03-03 06:44:30 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:30 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:31 INFO  Utils:53 - https://www.facebook.com/ - OK
+2018-03-03 06:44:32 INFO  Utils:53 - https://www.facebook.com/recover/initiate?lwv=110 - OK
+2018-03-03 06:44:32 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:32 INFO  Utils:53 - https://www.facebook.com/legal/terms - OK
+2018-03-03 06:44:33 INFO  Utils:53 - https://www.facebook.com/about/privacy - OK
+2018-03-03 06:44:33 INFO  Utils:53 - https://www.facebook.com/policies/cookies/ - OK
+2018-03-03 06:44:34 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:34 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:35 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:35 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:35 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:36 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:36 INFO  Utils:53 - https://www.facebook.com/pages/create/?ref_type=registration_form - OK
+2018-03-03 06:44:37 INFO  Utils:53 - https://hi-in.facebook.com/ - OK
+2018-03-03 06:44:37 INFO  Utils:53 - https://ur-pk.facebook.com/ - OK
+2018-03-03 06:44:38 INFO  Utils:53 - https://ta-in.facebook.com/ - OK
+2018-03-03 06:44:38 INFO  Utils:53 - https://bn-in.facebook.com/ - OK
+2018-03-03 06:44:39 INFO  Utils:53 - https://mr-in.facebook.com/ - OK
+2018-03-03 06:44:40 INFO  Utils:53 - https://te-in.facebook.com/ - OK
+2018-03-03 06:44:40 INFO  Utils:53 - https://gu-in.facebook.com/ - OK
+2018-03-03 06:44:41 INFO  Utils:53 - https://kn-in.facebook.com/ - OK
+2018-03-03 06:44:41 INFO  Utils:53 - https://ml-in.facebook.com/ - OK
+2018-03-03 06:44:42 INFO  Utils:53 - https://es-la.facebook.com/ - OK
+2018-03-03 06:44:42 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 06:44:42 INFO  Utils:53 - https://www.facebook.com/r.php - OK
+2018-03-03 06:44:43 INFO  Utils:53 - https://www.facebook.com/login/ - OK
+2018-03-03 06:44:44 INFO  Utils:53 - https://messenger.com/ - OK
+2018-03-03 06:44:44 INFO  Utils:53 - https://www.facebook.com/lite/ - OK
+2018-03-03 06:44:45 INFO  Utils:53 - https://www.facebook.com/mobile/?ref=pf - OK
+2018-03-03 06:44:45 INFO  Utils:53 - https://www.facebook.com/find-friends?ref=pf - OK
+2018-03-03 06:44:46 INFO  Utils:53 - https://www.facebook.com/directory/people/ - OK
+2018-03-03 06:44:46 INFO  Utils:53 - https://www.facebook.com/directory/pages/ - OK
+2018-03-03 06:44:47 INFO  Utils:53 - https://www.facebook.com/places/ - OK
+2018-03-03 06:44:48 INFO  Utils:53 - https://www.facebook.com/games/ - OK
+2018-03-03 06:44:48 INFO  Utils:53 - https://www.facebook.com/directory/places/ - OK
+2018-03-03 06:44:49 INFO  Utils:53 - https://www.facebook.com/directory/celebrities/ - OK
+2018-03-03 06:44:49 INFO  Utils:53 - https://www.facebook.com/directory/marketplace/ - OK
+2018-03-03 06:44:50 INFO  Utils:53 - https://www.facebook.com/directory/groups/ - OK
+2018-03-03 06:44:50 INFO  Utils:53 - https://www.facebook.com/recipes/ - OK
+2018-03-03 06:44:51 INFO  Utils:53 - https://www.facebook.com/sport/ - OK
+2018-03-03 06:44:52 INFO  Utils:53 - https://www.facebook.com/look/directory/ - OK
+2018-03-03 06:44:53 INFO  Utils:53 - https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATMpH-Dobai_mPLRZB2VI5zBTk5YQ35CKFX1v8yu_XktS5rzp_0SuQXpl_cRzQJxk_VWeH7GBi_bzBo8nkvik6cHEUoibcghv4FK-c2lgk9rfoFUfDFl8_0KTGZ7dpH9vLrF - OK
+2018-03-03 06:44:54 INFO  Utils:53 - https://www.facebook.com/local/lists/245019872666104/ - OK
+2018-03-03 06:44:57 INFO  Utils:53 - https://www.facebook.com/facebook - OK
+2018-03-03 06:44:58 INFO  Utils:56 - https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto - Not Found - 404
+2018-03-03 06:44:59 INFO  Utils:53 - https://www.facebook.com/pages/create/?ref_type=sitefooter - OK
+2018-03-03 06:44:59 INFO  Utils:53 - https://developers.facebook.com/?ref=pf - OK
+2018-03-03 06:45:00 INFO  Utils:53 - https://www.facebook.com/careers/?ref=pf - OK
+2018-03-03 06:45:00 INFO  Utils:53 - https://www.facebook.com/privacy/explanation - OK
+2018-03-03 06:45:01 INFO  Utils:53 - https://www.facebook.com/policies/cookies/ - OK
+2018-03-03 06:45:01 INFO  Utils:53 - https://www.facebook.com/help/568137493302217 - OK
+2018-03-03 06:45:02 INFO  Utils:53 - https://www.facebook.com/policies?ref=pf - OK
+2018-03-03 06:45:02 INFO  Utils:53 - https://www.facebook.com/help/?ref=pf - OK
+2018-03-03 06:45:03 INFO  Utils:53 - https://www.facebook.com/settings - OK
+2018-03-03 06:45:03 INFO  Utils:56 - https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu - Not Found - 404
+2018-03-03 06:45:03 INFO  ElementHelper:18 - Element : Facebook – log in or sign up
+2018-03-03 06:45:03 INFO  ElementHelper:65 - The width of Element is : 202
+2018-03-03 06:45:03 INFO  ElementHelper:75 - X Cordinates of selected Element is : 764
+2018-03-03 06:45:03 INFO  ElementHelper:76 - Y Cordinates of selected Element is : 547
+2018-03-03 06:45:03 INFO  ElementHelper:85 - The Text of the Element is : Create an account
+2018-03-03 06:45:04 INFO  ElementHelper:94 - All Links in Current Web Page : 58
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : Facebook
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : Forgotten account?
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : Why do I need to provide my date of birth?
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : Terms
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : Data Policy
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : Cookie Use Policy
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : Create a Page
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ??????
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ????
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ?????
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ?????
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ?????
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ??????
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ???????
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ?????
+2018-03-03 06:45:04 INFO  ElementHelper:96 - All Links Text : ??????
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Español
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Sign Up
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Log In
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Messenger
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Facebook Lite
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Mobile
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Find Friends
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : People
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Pages
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Places
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Games
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Locations
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Celebrities
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Marketplace
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Groups
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Recipes
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Sports
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Look
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Moments
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Instagram
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Local
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : About
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Create ad
+2018-03-03 06:45:05 INFO  ElementHelper:96 - All Links Text : Create Page
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : Developers
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : Careers
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : Privacy
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : Cookies
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : AdChoices
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : Terms
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : Help
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : Settings
+2018-03-03 06:45:06 INFO  ElementHelper:96 - All Links Text : Activity log
+2018-03-03 06:45:06 INFO  ElementHelper:46 - Not able to enter text into element : [[ChromeDriver: chrome on XP (1c2bf1ee4e3b9f3166c22ab85e94bf91)] -> name: websubmit]
+2018-03-03 06:45:06 INFO  ElementHelper:24 - To Perform Click Operation on : [[ChromeDriver: chrome on XP (1c2bf1ee4e3b9f3166c22ab85e94bf91)] -> name: websubmit]
+2018-03-03 06:45:09 INFO  TestBase:220 - browser closed
+2018-03-03 07:00:29 INFO  TestBase:82 - navigating to :-chrome browser
+2018-03-03 07:00:29 INFO  TestBase:110 - navigating to :-https://www.facebook.com/
+2018-03-03 07:01:35 INFO  Utils:21 - Utils : 1625252058
+2018-03-03 07:01:35 INFO  Utils:27 - Total No.Of Links are : 58
+2018-03-03 07:01:37 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:37 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:38 INFO  Utils:53 - https://www.facebook.com/ - OK
+2018-03-03 07:01:39 INFO  Utils:53 - https://www.facebook.com/recover/initiate?lwv=110 - OK
+2018-03-03 07:01:40 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:40 INFO  Utils:53 - https://www.facebook.com/legal/terms - OK
+2018-03-03 07:01:41 INFO  Utils:53 - https://www.facebook.com/about/privacy - OK
+2018-03-03 07:01:41 INFO  Utils:53 - https://www.facebook.com/policies/cookies/ - OK
+2018-03-03 07:01:42 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:42 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:42 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:43 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:43 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:44 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:44 INFO  Utils:53 - https://www.facebook.com/pages/create/?ref_type=registration_form - OK
+2018-03-03 07:01:45 INFO  Utils:53 - https://hi-in.facebook.com/ - OK
+2018-03-03 07:01:46 INFO  Utils:53 - https://ur-pk.facebook.com/ - OK
+2018-03-03 07:01:47 INFO  Utils:53 - https://ta-in.facebook.com/ - OK
+2018-03-03 07:01:48 INFO  Utils:53 - https://bn-in.facebook.com/ - OK
+2018-03-03 07:01:50 INFO  Utils:53 - https://mr-in.facebook.com/ - OK
+2018-03-03 07:01:50 INFO  Utils:53 - https://te-in.facebook.com/ - OK
+2018-03-03 07:01:51 INFO  Utils:53 - https://gu-in.facebook.com/ - OK
+2018-03-03 07:01:51 INFO  Utils:53 - https://kn-in.facebook.com/ - OK
+2018-03-03 07:01:52 INFO  Utils:53 - https://ml-in.facebook.com/ - OK
+2018-03-03 07:01:53 INFO  Utils:53 - https://es-la.facebook.com/ - OK
+2018-03-03 07:01:53 INFO  Utils:53 - https://www.facebook.com/# - OK
+2018-03-03 07:01:54 INFO  Utils:53 - https://www.facebook.com/r.php - OK
+2018-03-03 07:01:55 INFO  Utils:53 - https://www.facebook.com/login/ - OK
+2018-03-03 07:01:57 INFO  Utils:53 - https://messenger.com/ - OK
+2018-03-03 07:01:58 INFO  Utils:53 - https://www.facebook.com/lite/ - OK
+2018-03-03 07:01:58 INFO  Utils:53 - https://www.facebook.com/mobile/?ref=pf - OK
+2018-03-03 07:02:00 INFO  Utils:53 - https://www.facebook.com/find-friends?ref=pf - OK
+2018-03-03 07:02:00 INFO  Utils:53 - https://www.facebook.com/directory/people/ - OK
+2018-03-03 07:02:02 INFO  Utils:53 - https://www.facebook.com/directory/pages/ - OK
+2018-03-03 07:02:03 INFO  Utils:53 - https://www.facebook.com/places/ - OK
+2018-03-03 07:02:03 INFO  Utils:53 - https://www.facebook.com/games/ - OK
+2018-03-03 07:02:04 INFO  Utils:53 - https://www.facebook.com/directory/places/ - OK
+2018-03-03 07:02:04 INFO  Utils:53 - https://www.facebook.com/directory/celebrities/ - OK
+2018-03-03 07:02:05 INFO  Utils:53 - https://www.facebook.com/directory/marketplace/ - OK
+2018-03-03 07:02:05 INFO  Utils:53 - https://www.facebook.com/directory/groups/ - OK
+2018-03-03 07:02:06 INFO  Utils:53 - https://www.facebook.com/recipes/ - OK
+2018-03-03 07:02:07 INFO  Utils:53 - https://www.facebook.com/sport/ - OK
+2018-03-03 07:02:07 INFO  Utils:53 - https://www.facebook.com/look/directory/ - OK
+2018-03-03 07:02:08 INFO  Utils:53 - https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATPl1hkci_Ryh459GfRELUitCPmqf_k3hzYp8l4W51VfF9nxJZiokrTrx3Ldw_4hXttHxXssKPpFwaYzIEyDrUFQ4sriIkC4VhQ78Q2AFbBNpOEfmMoxZcc7KNH-MgBWALuX - OK
+2018-03-03 07:02:09 INFO  Utils:53 - https://www.facebook.com/local/lists/245019872666104/ - OK
+2018-03-03 07:02:11 INFO  Utils:53 - https://www.facebook.com/facebook - OK
+2018-03-03 07:02:12 INFO  Utils:56 - https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto - Not Found - 404
+2018-03-03 07:02:13 INFO  Utils:53 - https://www.facebook.com/pages/create/?ref_type=sitefooter - OK
+2018-03-03 07:02:13 INFO  Utils:53 - https://developers.facebook.com/?ref=pf - OK
+2018-03-03 07:02:14 INFO  Utils:53 - https://www.facebook.com/careers/?ref=pf - OK
+2018-03-03 07:02:14 INFO  Utils:53 - https://www.facebook.com/privacy/explanation - OK
+2018-03-03 07:02:15 INFO  Utils:53 - https://www.facebook.com/policies/cookies/ - OK
+2018-03-03 07:02:15 INFO  Utils:53 - https://www.facebook.com/help/568137493302217 - OK
+2018-03-03 07:02:16 INFO  Utils:53 - https://www.facebook.com/policies?ref=pf - OK
+2018-03-03 07:02:16 INFO  Utils:53 - https://www.facebook.com/help/?ref=pf - OK
+2018-03-03 07:02:17 INFO  Utils:53 - https://www.facebook.com/settings - OK
+2018-03-03 07:02:17 INFO  Utils:56 - https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu - Not Found - 404
+2018-03-03 07:02:17 INFO  ElementHelper:18 - Element : Facebook – log in or sign up
+2018-03-03 07:02:18 INFO  ElementHelper:65 - The width of Element is : 202
+2018-03-03 07:02:18 INFO  ElementHelper:75 - X Cordinates of selected Element is : 764
+2018-03-03 07:02:18 INFO  ElementHelper:76 - Y Cordinates of selected Element is : 547
+2018-03-03 07:02:18 INFO  ElementHelper:85 - The Text of the Element is : Create an account
+2018-03-03 07:02:18 INFO  ElementHelper:94 - All Links in Current Web Page : 58
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : Facebook
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : Forgotten account?
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : Why do I need to provide my date of birth?
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : Terms
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : Data Policy
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : Cookie Use Policy
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : Create a Page
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : ??????
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : ????
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : ?????
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : ?????
+2018-03-03 07:02:18 INFO  ElementHelper:96 - All Links Text : ?????
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : ??????
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : ???????
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : ?????
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : ??????
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Español
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : 
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Sign Up
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Log In
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Messenger
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Facebook Lite
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Mobile
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Find Friends
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : People
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Pages
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Places
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Games
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Locations
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Celebrities
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Marketplace
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Groups
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Recipes
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Sports
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Look
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Moments
+2018-03-03 07:02:19 INFO  ElementHelper:96 - All Links Text : Instagram
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Local
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : About
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Create ad
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Create Page
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Developers
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Careers
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Privacy
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Cookies
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : AdChoices
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Terms
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Help
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Settings
+2018-03-03 07:02:20 INFO  ElementHelper:96 - All Links Text : Activity log
+2018-03-03 07:02:20 INFO  ElementHelper:46 - Not able to enter text into element : [[ChromeDriver: chrome on XP (852f9ccc9a03f2de678e06300c136be3)] -> name: websubmit]
+2018-03-03 07:02:20 INFO  ElementHelper:24 - To Perform Click Operation on : [[ChromeDriver: chrome on XP (852f9ccc9a03f2de678e06300c136be3)] -> name: websubmit]
+2018-03-03 07:02:27 INFO  TestBase:225 - browser closed
+2018-03-03 07:20:57 INFO  TestBase:82 - navigating to :-chrome browser
+2018-03-03 07:20:57 INFO  TestBase:110 - navigating to :-https://www.facebook.com/
+2018-03-03 07:21:58 INFO  Utils:21 - Utils : 1625252058
+2018-03-03 07:21:58 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-03 07:21:58 INFO  ElementHelper:107 - element is Displayed and Status is : true
+2018-03-03 07:21:58 INFO  ElementHelper:112 - element is Enabled and Status is : true
+2018-03-03 07:21:58 INFO  ElementHelper:119 - element is Selected and Status is : true
+2018-03-03 07:21:58 INFO  ElementHelper:67 - The width of Element is : 194
+2018-03-03 07:21:59 INFO  ElementHelper:77 - X Cordinates of selected Element is : 764
+2018-03-03 07:21:59 INFO  ElementHelper:78 - Y Cordinates of selected Element is : 547
+2018-03-03 07:21:59 INFO  ElementHelper:87 - The Text of the Element is : Create Account
+2018-03-03 07:21:59 INFO  ElementHelper:96 - All Links in Current Web Page : 58
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : Facebook
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : Forgotten account?
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : Why do I need to provide my date of birth?
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : Terms
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : Data Policy
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : Cookie Use Policy
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:21:59 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Create a Page
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ??????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ?????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ?????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ?????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ??????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ???????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ?????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : ??????
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Español
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Sign Up
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Log In
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Messenger
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Facebook Lite
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Mobile
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Find Friends
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : People
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Pages
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Places
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Games
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Locations
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Celebrities
+2018-03-03 07:22:00 INFO  ElementHelper:98 - All Links Text : Marketplace
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Groups
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Recipes
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Sports
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Look
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Moments
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Instagram
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Local
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : About
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Create ad
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Create Page
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Developers
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Careers
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Privacy
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Cookies
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : AdChoices
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Terms
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Help
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Settings
+2018-03-03 07:22:01 INFO  ElementHelper:98 - All Links Text : Activity log
+2018-03-03 07:22:01 INFO  ElementHelper:48 - Not able to enter text into element : [[ChromeDriver: chrome on XP (7cb5648daf59df74123383504d859ea2)] -> name: websubmit]
+2018-03-03 07:22:02 INFO  ElementHelper:26 - To Perform Click Operation on : [[ChromeDriver: chrome on XP (7cb5648daf59df74123383504d859ea2)] -> name: websubmit]
+2018-03-03 07:22:13 INFO  TestBase:225 - browser closed
+2018-03-03 07:25:24 INFO  TestBase:82 - navigating to :-chrome browser
+2018-03-03 07:25:24 INFO  TestBase:110 - navigating to :-https://www.facebook.com/
+2018-03-03 07:26:32 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-03 07:26:32 INFO  ElementHelper:107 - element is Displayed and Status is : true
+2018-03-03 07:26:32 INFO  ElementHelper:112 - element is Enabled and Status is : true
+2018-03-03 07:26:32 INFO  ElementHelper:119 - element is Selected and Status is : true
+2018-03-03 07:26:32 INFO  ElementHelper:67 - The width of Element is : 194
+2018-03-03 07:26:32 INFO  ElementHelper:77 - X Cordinates of selected Element is : 764
+2018-03-03 07:26:32 INFO  ElementHelper:78 - Y Cordinates of selected Element is : 547
+2018-03-03 07:26:32 INFO  ElementHelper:87 - The Text of the Element is : Create Account
+2018-03-03 07:26:32 INFO  ElementHelper:96 - All Links in Current Web Page : 58
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : Facebook
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : Forgotten account?
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : Why do I need to provide my date of birth?
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : Terms
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : Data Policy
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : Cookie Use Policy
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:32 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Create a Page
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ??????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ?????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ?????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ?????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ??????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ???????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ?????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : ??????
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Español
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : 
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Sign Up
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Log In
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Messenger
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Facebook Lite
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Mobile
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Find Friends
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : People
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Pages
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Places
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Games
+2018-03-03 07:26:33 INFO  ElementHelper:98 - All Links Text : Locations
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Celebrities
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Marketplace
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Groups
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Recipes
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Sports
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Look
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Moments
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Instagram
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Local
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : About
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Create ad
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Create Page
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Developers
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Careers
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Privacy
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Cookies
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : AdChoices
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Terms
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Help
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Settings
+2018-03-03 07:26:34 INFO  ElementHelper:98 - All Links Text : Activity log
+2018-03-03 07:26:35 INFO  ElementHelper:48 - Not able to enter text into element : [[ChromeDriver: chrome on XP (450afc35e00352652c26f8ccbc33393e)] -> name: websubmit]
+2018-03-03 07:26:35 INFO  ElementHelper:26 - To Perform Click Operation on : [[ChromeDriver: chrome on XP (450afc35e00352652c26f8ccbc33393e)] -> name: websubmit]
+2018-03-03 07:26:38 INFO  TestBase:225 - browser closed
+2018-03-03 07:29:29 INFO  TestBase:82 - navigating to :-chrome browser
+2018-03-03 07:29:29 INFO  TestBase:110 - navigating to :-https://www.facebook.com/
+2018-03-03 07:30:36 INFO  Utils:21 - Utils : 1625252058
+2018-03-03 07:30:36 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-03 07:30:36 INFO  ElementHelper:107 - element is Displayed and Status is : true
+2018-03-03 07:30:36 INFO  ElementHelper:112 - element is Enabled and Status is : true
+2018-03-03 07:30:36 INFO  ElementHelper:119 - element is Selected and Status is : false
+2018-03-03 07:30:39 INFO  TestBase:225 - browser closed
+2018-03-03 07:53:12 INFO  TestBase:82 - navigating to :-chrome browser
+2018-03-03 07:53:12 INFO  TestBase:110 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-03 07:54:11 INFO  DropDownHelper:18 - DropDownHelper : 1625252058
+2018-03-03 07:54:14 INFO  DropDownHelper:224 - All Values in DropDown are : HTML
+2018-03-03 07:54:14 INFO  DropDownHelper:224 - All Values in DropDown are : CSS
+2018-03-03 07:54:14 INFO  DropDownHelper:224 - All Values in DropDown are : JavaScript
+2018-03-03 07:54:14 INFO  DropDownHelper:224 - All Values in DropDown are : About Us
+2018-03-04 19:10:36 INFO  TestBase:82 - navigating to :-chrome browser
+2018-03-04 19:10:36 INFO  TestBase:110 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-04 19:11:46 INFO  Utils:21 - Utils : 1625252058
+2018-03-04 19:11:47 INFO  Utils:27 - Total No.Of Links are : 115
+2018-03-04 19:11:47 INFO  Utils:53 - http://seleniumpractise.blogspot.in/ - OK
+2018-03-04 19:11:47 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html# - OK
+2018-03-04 19:11:49 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html# - OK
+2018-03-04 19:11:52 INFO  Utils:53 - http://www.learn-automation.com/ - OK
+2018-03-04 19:11:52 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html# - OK
+2018-03-04 19:11:54 INFO  Utils:53 - https://plus.google.com/118015166938096063193 - OK
+2018-03-04 19:11:54 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html - OK
+2018-03-04 19:11:55 INFO  Utils:53 - https://www.blogger.com/post-edit.g?blogID=4418638268846869874&postID=4615304122771162527&from=pencil - OK
+2018-03-04 19:11:59 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=email - OK
+2018-03-04 19:12:02 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=blog - OK
+2018-03-04 19:12:07 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=twitter - OK
+2018-03-04 19:12:09 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=facebook - OK
+2018-03-04 19:12:14 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=pinterest - OK
+2018-03-04 19:12:15 INFO  Utils:53 - https://www.blogger.com/profile/15121967933545948609 - OK
+2018-03-04 19:12:17 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1473484326830#c2454922933772192497 - OK
+2018-03-04 19:12:18 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=2454922933772192497 - OK
+2018-03-04 19:12:20 INFO  Utils:53 - https://www.blogger.com/profile/02707079988147293640 - OK
+2018-03-04 19:12:21 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1486040665171#c8453480227601856268 - OK
+2018-03-04 19:12:22 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=8453480227601856268 - OK
+2018-03-04 19:12:24 INFO  Utils:53 - https://www.blogger.com/profile/18105049098313652755 - OK
+2018-03-04 19:12:25 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1517221034246#c5336962541003246279 - OK
+2018-03-04 19:12:26 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=5336962541003246279 - OK
+2018-03-04 19:12:27 INFO  Utils:53 - https://www.blogger.com/profile/18141593497710586447 - OK
+2018-03-04 19:12:28 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1486121863393#c4761290877937599389 - OK
+2018-03-04 19:12:32 INFO  Utils:56 - http://www.calendar2017holidays.com/2016/08/february-2017-calendar.html - Not Found - 404
+2018-03-04 19:12:33 INFO  Utils:56 - http://www.calendar2017holidays.com/2016/08/february-2017-calendar.html - Not Found - 404
+2018-03-04 19:12:34 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=4761290877937599389 - OK
+2018-03-04 19:12:35 INFO  Utils:53 - https://www.blogger.com/profile/06807799679980324911 - OK
+2018-03-04 19:12:36 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1493706218832#c5561630948832061885 - OK
+2018-03-04 19:12:37 INFO  Utils:53 - http://www.rstrainings.com/selenium-online-training.html - OK
+2018-03-04 19:12:38 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=5561630948832061885 - OK
+2018-03-04 19:12:40 INFO  Utils:53 - https://www.blogger.com/profile/09255580519748673932 - OK
+2018-03-04 19:12:41 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1498108779201#c3341613716357421596 - OK
+2018-03-04 19:12:42 INFO  Utils:53 - http://www.greenstechnologys.com/selenium-course-content.html - OK
+2018-03-04 19:12:43 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=3341613716357421596 - OK
+2018-03-04 19:12:44 INFO  Utils:53 - https://www.blogger.com/profile/07462709425774759842 - OK
+2018-03-04 19:12:45 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1512748167925#c5664908542319663456 - OK
+2018-03-04 19:12:46 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=5664908542319663456 - OK
+2018-03-04 19:12:48 INFO  Utils:53 - https://www.blogger.com/profile/00563248897387627046 - OK
+2018-03-04 19:12:49 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1513860030626#c2854599377386492326 - OK
+2018-03-04 19:12:50 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=2854599377386492326 - OK
+2018-03-04 19:12:53 INFO  Utils:53 - https://www.blogger.com/profile/01921222763953226967 - OK
+2018-03-04 19:12:54 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1514350319295#c2067150692621357665 - OK
+2018-03-04 19:12:55 INFO  Utils:53 - https://onlineitguru.com/selenium-online-training-placement.html - OK
+2018-03-04 19:12:56 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=2067150692621357665 - OK
+2018-03-04 19:12:58 INFO  Utils:53 - https://www.blogger.com/profile/15852781128068692979 - OK
+2018-03-04 19:12:59 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1514466840406#c1574067395714045367 - OK
+2018-03-04 19:12:59 INFO  Utils:53 - https://onlineitguru.com/selenium-online-training-placement.html - OK
+2018-03-04 19:13:00 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=1574067395714045367 - OK
+2018-03-04 19:13:01 INFO  Utils:53 - https://www.blogger.com/profile/15406057922800790549 - OK
+2018-03-04 19:13:02 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1516194193251#c1568901087281377689 - OK
+2018-03-04 19:13:03 INFO  Utils:53 - https://onlineitguru.com/selenium-online-training-placement.html - OK
+2018-03-04 19:13:05 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=1568901087281377689 - OK
+2018-03-04 19:13:06 INFO  Utils:53 - https://www.blogger.com/profile/08091447618081307492 - OK
+2018-03-04 19:13:07 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1519953000386#c3202428835541344747 - OK
+2018-03-04 19:13:08 INFO  Utils:53 - http://seleniumonlinetraining.in/selenium-interview-questions-with-answers-scenario-based/ - OK
+2018-03-04 19:13:09 INFO  Utils:53 - https://www.crsinfosolutions.com/selenium/ - OK
+2018-03-04 19:13:10 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=3202428835541344747 - OK
+2018-03-04 19:13:11 INFO  Utils:53 - https://www.blogger.com/comment-iframe.g?blogID=4418638268846869874&postID=4615304122771162527&blogspotRpcToken=7057936 - OK
+2018-03-04 19:13:12 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/09/how-to-work-with-disable-textbox-or.html - OK
+2018-03-04 19:13:12 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/how-to-handle-autocomplete-feature-in.html - OK
+2018-03-04 19:13:12 INFO  Utils:53 - http://seleniumpractise.blogspot.in/ - OK
+2018-03-04 19:13:13 INFO  Utils:53 - http://seleniumpractise.blogspot.com/feeds/4615304122771162527/comments/default - OK
+2018-03-04 19:13:14 INFO  Utils:53 - https://plus.google.com/118015166938096063193 - OK
+2018-03-04 19:13:15 INFO  Utils:53 - https://plus.google.com/118015166938096063193 - OK
+2018-03-04 19:13:16 INFO  Utils:53 - https://plus.google.com/118015166938096063193 - OK
+2018-03-04 19:13:17 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2017/ - OK
+2018-03-04 19:13:18 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2017/09/ - OK
+2018-03-04 19:13:18 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2017/07/ - OK
+2018-03-04 19:13:19 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2017/05/ - OK
+2018-03-04 19:13:19 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2017/01/ - OK
+2018-03-04 19:13:20 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/ - OK
+2018-03-04 19:13:20 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/12/ - OK
+2018-03-04 19:13:21 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/11/ - OK
+2018-03-04 19:13:21 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/09/ - OK
+2018-03-04 19:13:22 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/ - OK
+2018-03-04 19:13:22 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html - OK
+2018-03-04 19:13:22 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/how-to-handle-autocomplete-feature-in.html - OK
+2018-03-04 19:13:23 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/how-to-handle-calendar-in-selenium.html - OK
+2018-03-04 19:13:23 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/how-to-use-explicit-wait-in-selenium.html - OK
+2018-03-04 19:13:24 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/how-to-perform-mouse-hover-in-selenium.html - OK
+2018-03-04 19:13:24 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/how-to-automate-tooltip-in-selenium.html - OK
+2018-03-04 19:13:25 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/how-to-automate-radio-button-in.html - OK
+2018-03-04 19:13:27 INFO  Utils:53 - https://www.blogger.com/ - OK
+2018-03-04 19:13:30 INFO  TestBase:225 - browser closed
+2018-03-07 06:46:58 INFO  TestBase:82 - navigating to :-chrome browser
+2018-03-07 06:46:58 INFO  TestBase:110 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-07 06:48:09 INFO  Utils:21 - Utils : 1664598529
+2018-03-07 06:48:10 INFO  Utils:27 - Total No.Of Links are : 115
+2018-03-07 06:48:10 INFO  Utils:53 - http://seleniumpractise.blogspot.in/ - OK
+2018-03-07 06:48:10 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html# - OK
+2018-03-07 06:48:11 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html# - OK
+2018-03-07 06:48:15 INFO  Utils:53 - http://www.learn-automation.com/ - OK
+2018-03-07 06:48:16 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html# - OK
+2018-03-07 06:48:17 INFO  Utils:53 - https://plus.google.com/118015166938096063193 - OK
+2018-03-07 06:48:18 INFO  Utils:53 - http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html - OK
+2018-03-07 06:48:19 INFO  Utils:53 - https://www.blogger.com/post-edit.g?blogID=4418638268846869874&postID=4615304122771162527&from=pencil - OK
+2018-03-07 06:48:20 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=email - OK
+2018-03-07 06:48:22 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=blog - OK
+2018-03-07 06:48:26 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=twitter - OK
+2018-03-07 06:48:27 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=facebook - OK
+2018-03-07 06:48:31 INFO  Utils:53 - https://www.blogger.com/share-post.g?blogID=4418638268846869874&postID=4615304122771162527&target=pinterest - OK
+2018-03-07 06:48:32 INFO  Utils:53 - https://www.blogger.com/profile/15121967933545948609 - OK
+2018-03-07 06:48:33 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1473484326830#c2454922933772192497 - OK
+2018-03-07 06:48:34 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=2454922933772192497 - OK
+2018-03-07 06:48:35 INFO  Utils:53 - https://www.blogger.com/profile/02707079988147293640 - OK
+2018-03-07 06:48:36 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1486040665171#c8453480227601856268 - OK
+2018-03-07 06:48:37 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=8453480227601856268 - OK
+2018-03-07 06:48:38 INFO  Utils:53 - https://www.blogger.com/profile/18105049098313652755 - OK
+2018-03-07 06:48:39 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1517221034246#c5336962541003246279 - OK
+2018-03-07 06:48:41 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=5336962541003246279 - OK
+2018-03-07 06:48:43 INFO  Utils:53 - https://www.blogger.com/profile/18141593497710586447 - OK
+2018-03-07 06:48:44 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1486121863393#c4761290877937599389 - OK
+2018-03-07 06:48:46 INFO  Utils:56 - http://www.calendar2017holidays.com/2016/08/february-2017-calendar.html - Not Found - 404
+2018-03-07 06:48:47 INFO  Utils:56 - http://www.calendar2017holidays.com/2016/08/february-2017-calendar.html - Not Found - 404
+2018-03-07 06:48:49 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=4761290877937599389 - OK
+2018-03-07 06:48:52 INFO  Utils:53 - https://www.blogger.com/profile/06807799679980324911 - OK
+2018-03-07 06:48:53 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1493706218832#c5561630948832061885 - OK
+2018-03-07 06:48:53 INFO  Utils:53 - http://www.rstrainings.com/selenium-online-training.html - OK
+2018-03-07 06:48:54 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=5561630948832061885 - OK
+2018-03-07 06:48:58 INFO  Utils:53 - https://www.blogger.com/profile/09255580519748673932 - OK
+2018-03-07 06:49:00 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1498108779201#c3341613716357421596 - OK
+2018-03-07 06:49:00 INFO  Utils:53 - http://www.greenstechnologys.com/selenium-course-content.html - OK
+2018-03-07 06:49:01 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=3341613716357421596 - OK
+2018-03-07 06:49:03 INFO  Utils:53 - https://www.blogger.com/profile/07462709425774759842 - OK
+2018-03-07 06:49:03 INFO  Utils:53 - http://seleniumpractise.blogspot.com/2016/08/bootstrap-dropdown-example-for-selenium.html?showComment=1512748167925#c5664908542319663456 - OK
+2018-03-07 06:49:05 INFO  Utils:53 - https://www.blogger.com/delete-comment.g?blogID=4418638268846869874&postID=5664908542319663456 - OK
+2018-03-07 06:49:10 INFO  TestBase:225 - browser closed
+2018-03-07 07:17:42 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-07 07:17:42 INFO  TestBase:114 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-07 07:18:47 INFO  Utils:21 - Utils : 2050370411
+2018-03-07 07:18:49 INFO  TestBase:236 - browser closed
+2018-03-08 06:47:50 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-08 06:47:50 INFO  TestBase:114 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-08 06:51:19 INFO  TestBase:236 - browser closed
+2018-03-08 06:52:44 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-08 06:52:44 INFO  TestBase:114 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-08 06:55:35 INFO  TestBase:236 - browser closed
+2018-03-11 05:34:22 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-11 05:34:22 INFO  TestBase:114 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-11 05:34:34 INFO  TestBase:236 - browser closed
+2018-03-11 05:39:48 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-11 05:39:48 INFO  TestBase:114 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-11 05:39:58 INFO  TestBase:236 - browser closed
+2018-03-11 05:41:58 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-11 05:41:58 INFO  TestBase:114 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-11 05:42:25 INFO  TestBase:236 - browser closed
+2018-03-11 05:50:11 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-11 05:50:11 INFO  TestBase:114 - navigating to :-http://seleniumpractise.blogspot.in/2016/08/bootstrap-dropdown-example-for-selenium.html
+2018-03-11 05:51:48 INFO  TestBase:236 - browser closed
