@@ -13,8 +13,9 @@ import com.SampleProject.TestBase.TestBase;
 import com.SampleProject.Utils.Utils;
 
 public class SampleTest extends TestBase {
-	@Autowired
-	Utils utils;
+	/*@Autowired*/
+	
+	
 
 	@FindBy(xpath = "//ul[@class='dropdown-menu']//li/a")
 	List<WebElement> ele;
@@ -30,6 +31,11 @@ public class SampleTest extends TestBase {
 
 	@Test
 	public void sampleTest() throws InterruptedException {
+	Utils utils = new Utils(driver);
+	utils.toFindAllLinks();
+	}
+	public void SampleTests() {
+		Utils utils = new Utils(driver);
 		utils.toFindAllLinks();
 	}
 }
