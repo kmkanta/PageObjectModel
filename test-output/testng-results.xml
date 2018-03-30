@@ -1,58 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
-    <line>
-      <![CDATA[<a href='C:\Users\Mani\workspace\SampleProject\src\main\java\com\SampleProject\ScreenShots\blank_11_03_2018_05_51_23.png'> <img src='C:\Users\Mani\workspace\SampleProject\src\main\java\com\SampleProject\ScreenShots\blank_11_03_2018_05_51_23.png' height='100' width='100'/> </a>]]>
-    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="124951" started-at="2018-03-11T00:19:45Z" finished-at="2018-03-11T00:21:50Z">
+  <suite name="Default suite" duration-ms="16388" started-at="2018-03-30T01:32:48Z" finished-at="2018-03-30T01:33:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="124951" started-at="2018-03-11T00:19:45Z" finished-at="2018-03-11T00:21:50Z">
-      <class name="com.SampleProject.Test.SampleTest">
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.SampleProject.Test.SampleTest@70be0a2b]" name="beforeMethod" is-config="true" duration-ms="55" started-at="2018-03-11T05:49:46Z" finished-at="2018-03-11T05:49:46Z">
+    <test name="Default test" duration-ms="16388" started-at="2018-03-30T01:32:48Z" finished-at="2018-03-30T01:33:05Z">
+      <class name="com.SampleProject.Test.TC001_LoginPageTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.SampleProject.Test.TC001_LoginPageTest@f8c1ddd]" name="beforeMethod" is-config="true" duration-ms="24" started-at="2018-03-30T07:02:48Z" finished-at="2018-03-30T07:02:48Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.SampleProject.Test.SampleTest.sampleTest() throws java.lang.InterruptedException]]>
+                <![CDATA[public void com.SampleProject.Test.TC001_LoginPageTest.verifyLoginApplicationTest()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.SampleProject.Test.SampleTest@70be0a2b]" name="beforeMethod" is-config="true" duration-ms="96220" started-at="2018-03-11T05:49:46Z" finished-at="2018-03-11T05:51:22Z">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.SampleProject.Test.TC001_LoginPageTest@f8c1ddd]" name="startTest" is-config="true" duration-ms="11241" started-at="2018-03-30T07:02:48Z" finished-at="2018-03-30T07:03:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="sampleTest()[pri:0, instance:com.SampleProject.Test.SampleTest@70be0a2b]" name="sampleTest" duration-ms="407" started-at="2018-03-11T05:51:22Z" finished-at="2018-03-11T05:51:22Z">
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerExceptionat com.SampleProject.Test.SampleTest.sampleTest(SampleTest.java:33)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="verifyLoginApplicationTest()[pri:0, instance:com.SampleProject.Test.TC001_LoginPageTest@f8c1ddd]" name="verifyLoginApplicationTest" duration-ms="3233" started-at="2018-03-30T07:03:00Z" finished-at="2018-03-30T07:03:03Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleTest -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.SampleProject.Test.SampleTest@70be0a2b]" name="afterMethod" is-config="true" duration-ms="3594" started-at="2018-03-11T05:51:23Z" finished-at="2018-03-11T05:51:26Z">
+        </test-method> <!-- verifyLoginApplicationTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.SampleProject.Test.TC001_LoginPageTest@f8c1ddd]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-03-30T07:03:03Z" finished-at="2018-03-30T07:03:03Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=sampleTest status=FAILURE method=SampleTest.sampleTest()[pri:0, instance:com.SampleProject.Test.SampleTest@70be0a2b] output={null}]]]>
+                <![CDATA[[TestResult name=verifyLoginApplicationTest status=SUCCESS method=TC001_LoginPageTest.verifyLoginApplicationTest()[pri:0, instance:com.SampleProject.Test.TC001_LoginPageTest@f8c1ddd] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
-            <line>
-              <![CDATA[<a href='C:\Users\Mani\workspace\SampleProject\src\main\java\com\SampleProject\ScreenShots\blank_11_03_2018_05_51_23.png'> <img src='C:\Users\Mani\workspace\SampleProject\src\main\java\com\SampleProject\ScreenShots\blank_11_03_2018_05_51_23.png' height='100' width='100'/> </a>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.SampleProject.Test.SampleTest@70be0a2b]" name="endTest" is-config="true" duration-ms="24159" started-at="2018-03-11T05:51:26Z" finished-at="2018-03-11T05:51:50Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.SampleProject.Test.TC001_LoginPageTest@f8c1ddd]" name="endTest" is-config="true" duration-ms="1845" started-at="2018-03-30T07:03:03Z" finished-at="2018-03-30T07:03:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
-      </class> <!-- com.SampleProject.Test.SampleTest -->
+      </class> <!-- com.SampleProject.Test.TC001_LoginPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

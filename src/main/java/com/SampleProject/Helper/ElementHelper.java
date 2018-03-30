@@ -81,13 +81,15 @@ public class ElementHelper {
 		}
 	}
 
-	public void getElementText(WebElement element) {
+	public String getElementText(WebElement element) {
+		String text ="";
 		try {
-			String text = element.getText();
+			 text = element.getText();
 			log.info("The Text of the Element is : " + text);
 		} catch (Exception e) {
 			log.info("Unable to get the text of the Element : " + element);
 		}
+		return text;
 	}
 
 	public void getAllLinksCount() {

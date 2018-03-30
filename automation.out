@@ -726,3 +726,136 @@
 2018-03-11 07:17:04 INFO  Utils:54 - http://seleniumpractise.blogspot.in/2016/08/how-to-automate-radio-button-in.html - OK
 2018-03-11 07:17:08 INFO  Utils:54 - https://www.blogger.com/ - OK
 2018-03-11 07:17:15 INFO  TestBase:236 - browser closed
+2018-03-29 07:12:00 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-29 07:12:00 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-29 07:12:14 INFO  TestBase:236 - browser closed
+2018-03-29 07:13:12 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-29 07:13:12 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-29 07:13:20 INFO  ElementHelper:20 - Element : Free CRM in the cloud software boosts sales
+2018-03-29 07:13:20 INFO  ElementHelper:48 - Not able to enter text into element : [[ChromeDriver: chrome on XP (6ecd987c01cfb274d50fffee8a13618a)] -> name: username]
+2018-03-29 07:13:20 INFO  LoginPageObjects:37 - UserName  is entered
+2018-03-29 07:13:20 INFO  ElementHelper:48 - Not able to enter text into element : [[ChromeDriver: chrome on XP (6ecd987c01cfb274d50fffee8a13618a)] -> name: password]
+2018-03-29 07:13:20 INFO  LoginPageObjects:39 - Password is entered
+2018-03-29 07:13:24 INFO  ElementHelper:26 - To Perform Click Operation on : [[ChromeDriver: chrome on XP (6ecd987c01cfb274d50fffee8a13618a)] -> xpath: //*[@value='Login']]
+2018-03-29 07:13:24 INFO  LoginPageObjects:41 - Click on Login Button
+2018-03-29 07:13:24 INFO  ElementHelper:20 - Element : Free CRM in the cloud software boosts sales
+2018-03-29 07:13:24 INFO  LoginPageObjects:46 - To get Logout link 
+2018-03-29 07:13:24 INFO  ElementHelper:89 - Unable to get the text of the Element : Proxy element for: DefaultElementLocator 'By.xpath: //*[contains(text(),'Logout')]'
+2018-03-29 07:13:27 INFO  TestBase:236 - browser closed
+2018-03-29 07:15:31 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-29 07:15:31 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-29 07:15:39 INFO  ElementHelper:20 - Element : Free CRM in the cloud software boosts sales
+2018-03-29 07:15:39 INFO  ElementHelper:48 - Not able to enter text into element : [[ChromeDriver: chrome on XP (f2945ef8996ff41a460f34e4cd7e2dc7)] -> name: username]
+2018-03-29 07:15:39 INFO  LoginPageObjects:37 - UserName  is entered
+2018-03-29 07:15:39 INFO  ElementHelper:48 - Not able to enter text into element : [[ChromeDriver: chrome on XP (f2945ef8996ff41a460f34e4cd7e2dc7)] -> name: password]
+2018-03-29 07:15:39 INFO  LoginPageObjects:39 - Password is entered
+2018-03-29 07:15:42 INFO  ElementHelper:26 - To Perform Click Operation on : [[ChromeDriver: chrome on XP (f2945ef8996ff41a460f34e4cd7e2dc7)] -> xpath: //*[@value='Login']]
+2018-03-29 07:15:42 INFO  LoginPageObjects:41 - Click on Login Button
+2018-03-29 07:15:43 INFO  TestBase:236 - browser closed
+2018-03-29 07:20:43 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-29 07:20:43 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-29 07:20:52 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-29 07:20:56 INFO  TestBase:236 - browser closed
+2018-03-29 07:25:45 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-29 07:25:45 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-29 07:25:50 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-29 07:25:54 INFO  TestBase:236 - browser closed
+2018-03-30 06:14:17 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:14:17 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-30 06:14:24 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:16:34 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:16:34 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-30 06:16:42 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:16:46 INFO  TestBase:236 - browser closed
+2018-03-30 06:27:32 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:27:32 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-30 06:27:40 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:27:44 INFO  TestBase:236 - browser closed
+2018-03-30 06:33:25 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:33:25 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-30 06:33:32 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:33:32 INFO  LoginPageObjects:34 - UserName  is entered
+2018-03-30 06:33:33 INFO  LoginPageObjects:36 - Password is entered
+2018-03-30 06:33:40 INFO  LoginPageObjects:38 - Click on Login Button
+2018-03-30 06:33:44 INFO  TestBase:236 - browser closed
+2018-03-30 06:39:39 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:39:39 INFO  TestBase:114 - navigating to :-https://www.freecrm.com
+2018-03-30 06:39:49 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:39:49 INFO  ElementHelper:20 - Element : Free CRM in the cloud software boosts sales
+2018-03-30 06:39:49 INFO  ElementHelper:46 - Entered text into Element and text is : naveenk
+2018-03-30 06:39:49 INFO  ElementHelper:46 - Entered text into Element and text is : test@123
+2018-03-30 06:39:55 INFO  ElementHelper:26 - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@value='Login']'
+2018-03-30 06:39:59 INFO  TestBase:236 - browser closed
+2018-03-30 06:52:39 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:52:39 INFO  TestBase:114 - navigating to :-https://www.facebook.com/
+2018-03-30 06:52:46 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:52:46 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-30 06:52:46 INFO  ElementHelper:46 - Entered text into Element and text is : naveenk
+2018-03-30 06:52:46 INFO  ElementHelper:46 - Entered text into Element and text is : test@123
+2018-03-30 06:52:49 INFO  ElementHelper:26 - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@value='Log In']'
+2018-03-30 06:52:49 INFO  ElementHelper:20 - Element : Log in to Facebook | Facebook
+2018-03-30 06:52:49 INFO  ElementHelper:87 - The Text of the Element is : Sign up for Facebook
+2018-03-30 06:52:53 INFO  TestBase:236 - browser closed
+2018-03-30 06:54:29 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:54:29 INFO  TestBase:114 - navigating to :-https://www.facebook.com/
+2018-03-30 06:54:36 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:54:36 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-30 06:54:36 INFO  ElementHelper:46 - Entered text into Element and text is : naveenk
+2018-03-30 06:54:37 INFO  ElementHelper:46 - Entered text into Element and text is : test@123
+2018-03-30 06:54:39 INFO  ElementHelper:26 - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@value='Log In']'
+2018-03-30 06:54:39 INFO  ElementHelper:20 - Element : Log in to Facebook | Facebook
+2018-03-30 06:54:39 INFO  ElementHelper:87 - The Text of the Element is : Sign up for Facebook
+2018-03-30 06:54:41 INFO  TestBase:236 - browser closed
+2018-03-30 06:56:11 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:56:11 INFO  TestBase:114 - navigating to :-https://www.facebook.com/
+2018-03-30 06:56:15 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:56:15 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-30 06:56:16 INFO  ElementHelper:46 - Entered text into Element and text is : naveenk
+2018-03-30 06:56:16 INFO  ElementHelper:46 - Entered text into Element and text is : test@123
+2018-03-30 06:56:18 INFO  ElementHelper:26 - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@value='Log In']'
+2018-03-30 06:56:18 INFO  ElementHelper:20 - Element : Log in to Facebook | Facebook
+2018-03-30 06:56:18 INFO  ElementHelper:88 - The Text of the Element is : Sign up for Facebook
+2018-03-30 06:56:20 INFO  TestBase:236 - browser closed
+2018-03-30 06:59:19 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 06:59:19 INFO  TestBase:114 - navigating to :-https://www.facebook.com/
+2018-03-30 06:59:25 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 06:59:25 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-30 06:59:26 INFO  ElementHelper:46 - Entered text into Element and text is : naveenk
+2018-03-30 06:59:26 INFO  ElementHelper:46 - Entered text into Element and text is : test@123
+2018-03-30 06:59:29 INFO  ElementHelper:26 - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@value='Log In']'
+2018-03-30 06:59:29 INFO  ElementHelper:20 - Element : Log in to Facebook | Facebook
+2018-03-30 06:59:29 INFO  ElementHelper:88 - The Text of the Element is : Sign up for Facebook
+2018-03-30 06:59:29 INFO  TC001_LoginPageTest:34 - =======finished verifyLogin Test===========
+2018-03-30 06:59:31 INFO  TestBase:236 - browser closed
+2018-03-30 07:00:10 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 07:00:10 INFO  TestBase:114 - navigating to :-https://www.facebook.com/
+2018-03-30 07:00:15 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 07:00:15 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-30 07:00:15 INFO  ElementHelper:46 - Entered text into Element and text is : naveenk
+2018-03-30 07:00:16 INFO  ElementHelper:46 - Entered text into Element and text is : test@123
+2018-03-30 07:00:18 INFO  ElementHelper:26 - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@value='Log In']'
+2018-03-30 07:00:18 INFO  ElementHelper:20 - Element : Log in to Facebook | Facebook
+2018-03-30 07:00:18 INFO  ElementHelper:88 - The Text of the Element is : Sign up for Facebook
+2018-03-30 07:00:20 INFO  TestBase:236 - browser closed
+2018-03-30 07:01:35 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 07:01:35 INFO  TestBase:114 - navigating to :-https://www.facebook.com/
+2018-03-30 07:01:40 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 07:01:40 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-30 07:01:40 INFO  ElementHelper:46 - Entered text into Element and text is : naveenk
+2018-03-30 07:01:40 INFO  ElementHelper:46 - Entered text into Element and text is : test@123
+2018-03-30 07:01:43 INFO  ElementHelper:26 - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@value='Log In']'
+2018-03-30 07:01:43 INFO  ElementHelper:20 - Element : Log in to Facebook | Facebook
+2018-03-30 07:01:43 INFO  ElementHelper:88 - The Text of the Element is : Sign up for Facebook
+2018-03-30 07:01:43 INFO  TC001_LoginPageTest:34 - =======finished verifyLogin Test===========
+2018-03-30 07:01:44 INFO  TestBase:236 - browser closed
+2018-03-30 07:02:54 INFO  TestBase:86 - navigating to :-chrome browser
+2018-03-30 07:02:54 INFO  TestBase:114 - navigating to :-https://www.facebook.com/
+2018-03-30 07:03:00 INFO  TC001_LoginPageTest:30 - =======started verifyLogin Test===========
+2018-03-30 07:03:00 INFO  ElementHelper:20 - Element : Facebook – log in or sign up
+2018-03-30 07:03:00 INFO  ElementHelper:46 - Entered text into Element and text is : naveenk
+2018-03-30 07:03:00 INFO  ElementHelper:46 - Entered text into Element and text is : test@123
+2018-03-30 07:03:03 INFO  ElementHelper:26 - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@value='Log In']'
+2018-03-30 07:03:03 INFO  ElementHelper:20 - Element : Log in to Facebook | Facebook
+2018-03-30 07:03:03 INFO  ElementHelper:88 - The Text of the Element is : Sign up for Facebook
+2018-03-30 07:03:03 INFO  TC001_LoginPageTest:34 - =======finished verifyLogin Test===========
+2018-03-30 07:03:04 INFO  TestBase:236 - browser closed
